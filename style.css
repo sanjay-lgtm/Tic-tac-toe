@@ -9,8 +9,8 @@ body {
 }
 
 .board {
-    background-color: #12232E;
-    background-color: #553d67;
+    background-color: #1d72aa;
+    background-color: #27063f;
     display: grid;
     grid-template-columns: 80px 80px 80px;
     grid-template-rows: 80px 80px 80px;
@@ -35,8 +35,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 54px;
-    background-color: #553d67;
-    color: #12232E;
+    background-color: #776b81;
+    color: #81c3f0;
     border: none;
     border-radius: 0px;
     border-bottom: 3px solid #203647;
@@ -89,7 +89,7 @@ body {
 }
 
 .selected {
-    color: #203647;
+    color: #243e52;
     font-weight: 600;
     border: 2px solid #203647;
     -webkit-box-shadow: -1px 7px 22px -6px grey;
